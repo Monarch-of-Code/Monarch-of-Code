@@ -1,5 +1,56 @@
 # 💫 About Me:
-Hi, I’m Muhammad Muzammil, a passionate Full-Stack Developer currently building modern, scalable web applications. I love solving complex problems with clean, maintainable code and constantly improving my skills to stay ahead in the fast-evolving tech world.<br><br>Professional Summary<br><br>Full-Stack Developer with hands-on experience in React, Node.js, Express.js, PostgreSQL, and Prisma ORM.<br><br>Experienced in building production-ready web & mobile apps, with a focus on backend APIs, authentication, and role-based access systems.<br><br>Currently expanding my expertise in advanced backend development, real-time applications (WebSockets), and cloud deployments.<br><br>Strong problem-solving skills with a structured approach to building projects from scratch—research first, then plan, build, and integrate.<br><br>Technical Skills<br><br>Frontend: React, HTML, CSS, JavaScript, Tailwind CSS, Tiptap, React-Konva<br><br>Backend: Node.js, Express.js, REST APIs, JWT, RBAC, Prisma ORM<br><br>Database: PostgreSQL, Supabase, Cloudflare D1 SQL<br><br>Tools & Platforms: Git, GitHub, N8n, Docker (learning), Postman, VSCode<br><br>Other Skills: Real-time chat, API integrations, WebSockets, Project architecture, Problem-solving<br><br>Currently Learning<br><br>Advanced Node.js backend patterns and system design<br><br>Redis & Bull Queues for background job processing<br><br>Deployment strategies on cloud platforms (AWS, Vercel, etc.)<br><br>Improving algorithmic thinking and data structures for performance-critical applications<br><br> Looking to Collaborate On<br><br>Open-source projects involving full-stack applications<br><br>Projects requiring real-time features, authentication, or custom admin dashboards<br><br>Learning-focused collaborations to explore advanced backend or cloud concepts<br><br> Fun Fact<br><br>I follow a strict daily routine starting at 6 AM, balancing work, coding, and fitness.<br><br>Despite being young, I’ve already worked on multiple production apps and believe in building things the right way, not the easy way.<br><br>I’m a coffee-fueled problem solver, always curious about new tech and system optimizations.
+
+👋 Hi, I’m **Muhammad Muzammil**, a passionate **Full-Stack Developer** focused on building modern, scalable web applications. I enjoy solving complex problems with clean, maintainable code and continuously improving my skills to keep up with the fast-evolving tech industry.
+
+---
+
+## 💼 Professional Summary
+
+- Full-Stack Developer with hands-on experience in **React, Node.js, Express.js, PostgreSQL, and Prisma ORM**.  
+- Experienced in developing **production-ready web and mobile applications**, with strong emphasis on backend APIs, authentication, and role-based access control systems.  
+- Actively expanding expertise in **advanced backend development**, **real-time systems using WebSockets**, and **cloud-based deployments**.  
+- Known for a structured development approach: **research first, plan thoroughly, then build and integrate with precision**.
+
+---
+
+## 🛠 Technical Skills
+
+### Frontend
+- React, Next.js, HTML, CSS, JavaScript, Tailwind CSS  
+
+### Backend
+- Node.js, Express.js, REST APIs, JWT Authentication, RBAC, Prisma ORM  
+
+### Databases
+- PostgreSQL, Prisma, Supabase, MongoDB  
+
+### Tools & Platforms
+- Git, GitHub, N8n, Postman, VS Code  
+
+### Additional Skills
+- Real-time communication systems  
+- API integrations  
+- WebSockets  
+- Application architecture  
+- Problem-solving and debugging  
+
+---
+
+## 🚀 Currently Learning
+
+- Advanced **Node.js backend patterns** and **system design principles**  
+- **Redis and Bull Queue** for background task processing  
+- **Cloud deployment strategies** on platforms like AWS and Vercel  
+- Strengthening **data structures and algorithmic thinking** for high-performance applications  
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Open-source projects focused on **full-stack development**  
+- Applications involving **real-time features**, **secure authentication**, or **custom admin dashboards**  
+- Skill-driven collaborations to explore **advanced backend systems and cloud technologies**
+
 
 
 ## 🌐 Socials:
